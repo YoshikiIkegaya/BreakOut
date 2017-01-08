@@ -2,12 +2,8 @@
 using UnityEngine;
 
 public class BallScript : MonoBehaviour {
+	
 	float speed = 15.0f;
-
-	// Use this for initialization
-	void Start () {
-		
-	}
 	
 	// Update is called once per frame
 	void Update () {
