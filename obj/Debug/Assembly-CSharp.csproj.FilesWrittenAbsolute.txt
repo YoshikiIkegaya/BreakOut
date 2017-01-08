@@ -1,0 +1,17 @@
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/UnityEngine.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/UnityEditor.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ikegaya/develop/Unity-Projects/BreakOut/Temp/bin/Debug/Mono.Cecil.Mdb.dll
